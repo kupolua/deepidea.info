@@ -35,7 +35,7 @@
 
 /* #.header
 ================================================== */
-	
+
 	.header {
 		background-color: rgba(17, 17, 17, 1);
 		height: 80px;
@@ -146,7 +146,7 @@
 
 	.home .image {
 		background-image: url(../img/backgrounds/home.jpg);
-		background-attachment: fixed;
+		background-attachment: scroll;
 		background-color: #111111;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -217,7 +217,7 @@
 		letter-spacing: 1.5px;
 		text-transform: uppercase;
 	}
-        
+
         .home .subtitle.big {
 		font-size: 32px;
 	}
@@ -321,7 +321,7 @@
 ================================================== */
 
 	.about {
-		
+
 	}
 
 	.about .offset {
@@ -619,8 +619,8 @@
 		padding: 35px 0px;
 	}
 
-	.projects .preview .more { 
-		
+	.projects .preview .more {
+
 	}
 
 	.projects .preview .flex-control-nav {
@@ -765,7 +765,7 @@
 	}
 
 	.blog .widget .search {
-		
+
 	}
 
 	.blog .widget .search input {
@@ -790,7 +790,7 @@
 ================================================== */
 
 	.article {
-		
+
 	}
 
 	.article .offset {
